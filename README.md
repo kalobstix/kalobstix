@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **[Kaleab Daniel]**, a second-year Computer Science student at **California State University, Long Beach (CSULB)**.  
+I'm **Kaleab Daniel**, a second-year Computer Science student at **California State University, Long Beach (CSULB)**.  
 I’m passionate about building data-driven systems and currently working toward becoming a **Data Engineer**.  
 
 ---
