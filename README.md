@@ -25,7 +25,7 @@ I’m passionate about building data-driven systems and currently working toward
 ---
 
 ## 📄 Resume
-🔗 [View My Resume](https://your-resume-link.com)
+🔗 [View My Resume]
 
 ---
 
